@@ -17,12 +17,12 @@ INSTRUCTOR EXAMPLE: What is a conditional statement?
 
   Your answer: git is a tool for source control developed by Linus Torvalds. Git allows you to create a repository ( a named folder ) that contains code with permissions for the repository owner to create branches for different code to be developed and then merged back with the main branch. 
 
-  Researched answer: Git is software for tracking changes. It is used to co ordinate among programmers. The main reasons to use git are speed, data integrity, and distributed working. 
+  Researched answer: Git is software for tracking progress and enabling programmers to work together on the same files without them all changing it at once. It includes a review ability so programmers can review each change before it is added to the repository and lets them view each change in hindsight incase a bug was introduced. 
 
 
 2. Which JavaScript operators will return a Boolean value?
 
-  Your answer: || && 
+  Your answer: Any logical operators including and && and or || will return a boolean true or false value as a return.
 
   Researched answer: The logical operators that will return boolean values are AND (&&), as well as OR (||). && will return true if both operands are truthy and || will return true if any of its arguments are true. 
 
